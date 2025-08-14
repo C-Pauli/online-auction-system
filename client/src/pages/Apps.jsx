@@ -1,0 +1,3 @@
+import Shop from "./pages/Shop";
+// ...
+<Route path="/shop" element={<Shop />} />
